@@ -1,0 +1,17 @@
+<style>
+.left{
+    width:20%;
+    float: left;
+    text-align:right;
+    margin-top: 3cm;
+}
+
+.right{
+    width:75%;
+    margin-left: 0px;
+    float:left;
+    margin-top: :3cm;
+}
+
+body {background-image:url("../pics/129022-111.jpg");}
+</style>
